@@ -26,5 +26,17 @@ A Python CLI tool that automatically generates an `sitemap.xml` file for any web
 ### 1. Clone the Repository
 
 ```bash
+https://github.com/Aditi-Rani/sitemap-generator
+```
+```bash
 cd sitemap-generator
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the Script
+```bash
+python sitemap_generator.py
 ```
